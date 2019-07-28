@@ -1,0 +1,5 @@
+<config>
+    <type name="Magento\Framework\View\Element\AbstractBlock">
+        <plugin name="cachedebug_abstractblock" type="TheCactus117\CacheDebug\Plugin\DebugBlock" sortOrder="1" />
+    </type>
+</config>

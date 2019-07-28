@@ -1,0 +1,14 @@
+{
+    "name": "TheCactus117/CacheDebug",
+    "license": "MIT",
+    "type": "magento2-module",
+    "description": "Debug cache module for Magento 2",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "TheCactus117\\CacheDebug\\": ""
+        }
+    }
+}
