@@ -3,6 +3,9 @@
     "license": "MIT",
     "type": "magento2-module",
     "description": "Debug cache module for Magento 2",
+    "require": {
+        "php": ">=5.6.0"
+    },
     "autoload": {
         "files": [
             "registration.php"
